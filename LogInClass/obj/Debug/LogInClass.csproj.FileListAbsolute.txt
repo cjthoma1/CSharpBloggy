@@ -1,4 +1,0 @@
-\\Mac\Home\Documents\Visual Studio 2015\Projects\Bloggy\LogInClass\bin\Debug\LogInClass.dll
-\\Mac\Home\Documents\Visual Studio 2015\Projects\Bloggy\LogInClass\bin\Debug\LogInClass.pdb
-\\Mac\Home\Documents\Visual Studio 2015\Projects\Bloggy\LogInClass\obj\Debug\LogInClass.dll
-\\Mac\Home\Documents\Visual Studio 2015\Projects\Bloggy\LogInClass\obj\Debug\LogInClass.pdb

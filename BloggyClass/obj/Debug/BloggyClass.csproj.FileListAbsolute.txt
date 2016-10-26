@@ -1,7 +1,0 @@
-\\Mac\Home\Documents\Visual Studio 2015\Projects\Bloggy\BloggyClass\bin\Debug\BloggyClass.dll
-\\Mac\Home\Documents\Visual Studio 2015\Projects\Bloggy\BloggyClass\bin\Debug\BloggyClass.pdb
-\\Mac\Home\Documents\Visual Studio 2015\Projects\Bloggy\BloggyClass\obj\Debug\BloggyClass.csprojResolveAssemblyReference.cache
-\\Mac\Home\Documents\Visual Studio 2015\Projects\Bloggy\BloggyClass\obj\Debug\BloggyClass.dll
-\\Mac\Home\Documents\Visual Studio 2015\Projects\Bloggy\BloggyClass\obj\Debug\BloggyClass.pdb
-\\Mac\Home\Documents\Visual Studio 2015\Projects\Bloggy\BloggyClass\bin\Debug\LogInClass.dll
-\\Mac\Home\Documents\Visual Studio 2015\Projects\Bloggy\BloggyClass\bin\Debug\LogInClass.pdb
