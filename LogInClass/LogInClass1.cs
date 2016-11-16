@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 namespace LogInClass
 {
     public class LogInScreen
-    {
+    {               /*------- Opened Database Connection */
         SqlConnection connection = new SqlConnection(@"Data Source=(LocalDb)\MSSQLLocalDB;AttachDbFilename=\\mac\home\documents\visual studio 2015\Projects\Bloggy\Bloggy\Blogsandsuch.mdf;Integrated Security=True");
         SqlCommand command;
         SqlDataReader reader;
